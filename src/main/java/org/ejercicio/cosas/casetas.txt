@@ -1,0 +1,49 @@
+Caseta La Alegría - Antonio Ruiz - 120 - Comida
+El Rincón del Sabor - María Pérez - 150 - Fiesta
+La Cazuela Jaenera - Pedro López - 200 - Comida
+Los Amigos del Sur - Carmen García - 180 - Comida y fiesta
+El Fandango - José Fernández - 140 - Fiesta
+La Gitana - Isabel Martínez - 170 - Comida
+La Bodega del Sur - Francisco Rodríguez - 130 - Comida y fiesta
+La Caseta del Olivo - Laura Sánchez - 160 - Fiesta
+El Patio Andaluz - Juan González - 100 - Comida
+El Cortijo del Sol - Ana Gómez - 210 - Comida y fiesta
+La Buena Vida - Javier Morales - 190 - Fiesta
+Los Flamencos - Rocío Muñoz - 120 - Comida
+El Fogón Jaenero - Luis Torres - 150 - Comida y fiesta
+El Arenal - Eva Ramírez - 130 - Fiesta
+El Sabor del Campo - Miguel Jiménez - 140 - Comida
+La Caseta Verde - Sara Ortiz - 160 - Comida y fiesta
+El Balcón del Sur - Andrés Serrano - 180 - Fiesta
+El Encuentro - Lucía Ruiz - 200 - Comida
+La Taberna Flamenca - Diego Castro - 150 - Comida y fiesta
+El Rincón Andaluz - Patricia Martín - 110 - Fiesta
+La Finca - Sergio Sánchez - 140 - Comida
+El Barril del Sur - Raquel Cano - 120 - Comida y fiesta
+La Caseta Dorada - Alberto Navarro - 170 - Fiesta
+La Campiña - Silvia Molina - 130 - Comida
+La Tertulia - Carlos Castillo - 150 - Comida y fiesta
+El Rincón del Olivar - Cristina Jiménez - 160 - Fiesta
+Los Amigos de Jaén - Juan Carlos Herrera - 180 - Comida
+El Lagar de la Abuela - Marta Ruiz - 140 - Comida y fiesta
+La Carreta - Alejandro López - 190 - Fiesta
+El Refugio - Teresa Fernández - 150 - Comida
+La Piconera - David García - 130 - Comida y fiesta
+La Almazara - Sandra Gutiérrez - 160 - Fiesta
+La Taberna del Sol - Antonio Jiménez - 110 - Comida
+El Pescador Andaluz - Javier Ortega - 120 - Comida y fiesta
+El Mirador del Sur - Laura Morales - 150 - Fiesta
+La Jarana - Juan Rodríguez - 130 - Comida
+Los Romeros - Rocío Torres - 140 - Comida y fiesta
+El Porvenir - Manuel Muñoz - 160 - Fiesta
+El Buen Sabor - Cristina Ruiz - 180 - Comida
+El Castillo - Sergio Ramos - 200 - Comida y fiesta
+Los Andaluces - María Gil - 150 - Fiesta
+La Estrella - Francisco Gutiérrez - 120 - Comida
+La Terraza del Sur - Raúl Navarro - 110 - Comida y fiesta
+El Almendro - Ana López - 130 - Fiesta
+El Rincón de la Feria - Pablo Fernández - 140 - Comida
+La Caseta Encantada - Isabel Ortega - 180 - Comida y fiesta
+El Esplendor - Luis Moreno - 200 - Fiesta
+El Quinto Pino - Carolina Sánchez - 150 - Comida
+La Alacena - Pedro Vargas - 170 - Comida y fiesta
